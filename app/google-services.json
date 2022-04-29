@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906572927599",
+    "project_id": "ladm-u3-tarea-1",
+    "storage_bucket": "ladm-u3-tarea-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906572927599:android:e2efd35ff62389dde6b39a",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_tarea1_conociendofirebase_18401212"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906572927599-kf9vtssp6ft0cv5vnq63qp7hg6j66tl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRWHU26iqZ8xAuzLsvF-t7s87wYVROVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906572927599-kf9vtssp6ft0cv5vnq63qp7hg6j66tl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
